@@ -10,26 +10,26 @@
 
 游戏 loainding 界面结束以后大约等待 5-10 秒钟（根据网络情况可能会有所延长，请耐心等待）会弹出来钱包的签名，点击确认即可进入游戏。
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/loading.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/loading.png)
 
 由于本次测试在 iotex 的测试网。所以您需要一些测试网的 iotex 作为 gas。请确认您的 iopay 连接到了测试网。然后打开如下的网站：
 https://faucet.iotex.io/
 这里可以每个人申请一次 1000 个 iotx 测试币。用于游戏内的 gas 已经足够。
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/testtoken.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/testtoken.png)
 
 如果您想要进行流动性挖矿，则你需要打开 mimov2，在添加流动性页面输入：0xb5f92e508d020f479291582996798476a085e517 以添加测试网 GFT。
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/lp1.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp1.png)
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/lp2.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp2.png)
 
 如何使用 iopay 转为测试网？
 pc：
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/pc.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/pc.png)
 
 mobile:
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/mobile.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/mobile.png)
 
 mimov2 在 pc 上如何转测试网？
 https://iotexdefi.com/
@@ -37,7 +37,7 @@ https://iotexdefi.com/
 
 特别注意：如果您在游戏内执行合约失败，请一定确认自己当前网络切换到了测试网。
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/main.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/main.png)
 
 游戏主界面下方有四个按钮分别对应为：
 
@@ -52,7 +52,7 @@ https://iotexdefi.com/
 
 ## nft 合成界面
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/IMG/mix.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/mix.png)
 
 nft 合成界面可以将两张 nft 卡牌进行合成。从而有机会获得品质更高的卡牌，所有属性将从父母亲卡牌中继承和进化。所有身体部位的稀有度是不会低于父母亲双方的原有稀有度的。所以合成的时候大家一定要掌握好这个最基本的原则。如果您想您的卡牌某个部位保持某个稀有度，那你必须至少让父母双方都达到这个稀有度。（比如 R 和 R 合成是不会生成比 R 还要低的品质的）选定好合成的卡牌以后，点击合成调用合约，等待大约 10 秒左右合约会执行完毕将会播放合成动画，生成新的卡牌。
 
