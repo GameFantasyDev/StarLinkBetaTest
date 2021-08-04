@@ -1,44 +1,41 @@
-# StarLink 内测游戏方法
+# StarLink 公测游戏方法
+
+**本次公测为 删档测试，玩家所获得的卡牌都会在正式上线时弃用。游戏测试过程中获得的代币为主网正式的 GFT。相比上一次测试，这次测试我们做了很多优化。游戏中使用的 gas 费也相比上一次大幅降低了越 50%。**
+
+**本次测试的网络为 iotex 主网，游戏内使用的通证为主网 GFT,其中流动性挖矿为 IOTX-GFT 的 LP，产出为 DAO 代币 GFS。**
+
+**关于 GFS：GFS 为总量 3000w 的 GameFantasy 的社区通证。完全 100%公平发放，没有团队份额，没有生态份额。以后会开放更多游戏内的获取方式。可以用于游戏内 GFS 专享的奖金池挖矿，未来预计开放的各种糖浆池的挖矿以及 StarLink 的 DAO 权利。更多通证经济将在游戏上线后公布。**
+
+**关于 GFT：GFT 为硬顶 3000w 的 StarLink 游戏内使用的货币通证。（此上限不可更改，合约删除了更改的方法）在 StarLink 内所参与的一切交易活动均使用 GFT 来进行，包括以后预计开发的竞技场功能，其他社交活动等等。GFT 绝大部分将采用挖矿的形式产出，游戏内系统收益的通证将加入奖金池中供 GFS 持有者共同分享。**
 
 参与游戏测试的玩家可以下载 iopay 手机钱包或者桌面钱包。然后使用一个**对你不是那么重要的钱包**的钱包进行游戏。
 
 **游戏期间请关闭 vpn 的全局模式，以免
 出现连接不上钱包的问题。如果你浏览器有安装 adblock，请暂时关闭 adblock，避免出现连不上服务器的问题。**
 
-游戏中游玩过程中目前有发现时有的掉线，请大家不要担心，重新使用钱包签名即可，我们会在后续版本修复这个问题，不影响您游玩游戏。
-
-建议大家测试使用 iopay 的桌面版，这样能在浏览器中打开开发者工具查询日志，这样我们比较容易定位问题。
+测试过程中建议大家尽量使用 iopay 的桌面版，这样能在浏览器中打开开发者工具查询日志，这样我们比较容易定位问题。
 
 游戏 loainding 界面结束以后大约等待 5-10 秒钟（根据网络情况可能会有所延长，请耐心等待）会弹出来钱包的签名，点击确认即可进入游戏。
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/loading.png)
 
-由于本次测试在 iotex 的测试网。所以您需要一些测试网的 iotex 作为 gas。请确认您的 iopay 连接到了测试网。然后打开如下的网站：
-https://faucet.iotex.io/
-这里可以每个人申请一次 1000 个 iotx 测试币。用于游戏内的 gas 已经足够。
+如果您想要进行流动性挖矿挖取 GFS，则你需要打开 mimov2，为 IOTX-GFT 交易对提供流动性，并在游戏内进行质押，以获得 GFS。**注意：本次测试的 NFT 挖矿和流动性挖矿速率都经过了大幅调整。请大家悉知。**
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/testtoken.png)
+## 如何在 mimo v2 上给 GFT 提供流动性？
 
-如果您想要进行流动性挖矿，则你需要打开 mimov2，在添加流动性页面输入：0xb5f92e508d020f479291582996798476a085e517 以添加测试网 GFT。
+请打开 https://mimo.exchange/
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp1.png)
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp2.png)
 
-如何使用 iopay 转为测试网？
-pc：
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/pc.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp3.png)
 
-mobile:
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/mobile.png)
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp4.png)
 
-mimov2 在 pc 上如何转测试网？
-https://iotexdefi.com/
-这里可以往 metamask 上添加 iotex 的主网和测试网，然后切换测试网即可。
+然后您就可以在游戏内流动性挖矿界面中看到您提供的 lp token 了。质押挖矿的奖励将会是 GFS。
 
-特别注意：如果您在游戏内执行合约失败，请一定确认自己当前网络切换到了测试网。
-
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/main.png)
+## 游戏玩法
 
 游戏主界面下方有四个按钮分别对应为：
 
@@ -49,13 +46,17 @@ https://iotexdefi.com/
 
 ## nft 展示界面
 
-点击进第一个按钮进入 nft 展示界面，这也是游戏默认初始化界面。一开始可能大家都没有新猫咪。不用着急，你可以在交易拍卖界面中获得您的猫咪。如果你获得了属于你的猫咪的话可以在这里看到您猫咪的信息。右上角的感叹号可以查看猫咪详细的品质和信息。如果您的猫咪身体部位总分达到一个分值的时候，猫咪卡牌的背景将会发生改变。
+![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/main.png)
+
+点击进第一个按钮进入 nft 展示界面，这也是游戏默认初始化界面。一开始可能大家都没有新卡牌。不用着急，你可以在交易拍卖界面中获得您的卡牌。如果你获得了属于你的卡牌的话可以在这里看到您的卡牌信息。右上角的感叹号可以查看卡牌详细的品质和信息。如果您的卡牌身体部位总分达到一个分值的时候，卡牌的背景将会发生改变。
+
+游戏界面上方中间可以切换游戏中显示的语言。斜下方的查找功能可以让你很方便地查看目前某个 id 对应的卡牌属性。每张卡牌下半部分的中间有 8 个带颜色的水晶球，每个水晶球对应这张卡牌某个部位的品质。这样你可以很方便地知道这张卡牌的大概品质信息，以及合成的时候找到适合的对应卡牌。
 
 ## nft 合成界面
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/mix.png)
 
-nft 合成界面可以将两张 nft 卡牌进行合成。从而有机会获得品质更高的卡牌，所有属性将从父母亲卡牌中继承和进化。所有身体部位的稀有度是不会低于父母亲双方的原有稀有度的。所以合成的时候大家一定要掌握好这个最基本的原则。如果您想您的卡牌某个部位保持某个稀有度，那你必须至少让父母双方都达到这个稀有度。（比如 R 和 R 合成是不会生成比 R 还要低的品质的）选定好合成的卡牌以后，点击合成调用合约，等待大约 10 秒左右合约会执行完毕将会播放合成动画，生成新的卡牌。
+nft 合成界面可以将两张 nft 卡牌进行合成。从而有机会获得品质更高的卡牌，所有属性将从父母亲卡牌中继承和进化。所有身体部位的稀有度是不会低于父母亲双方的原有稀有度的。所以合成的时候大家一定要掌握好这个最基本的原则。如果您想您的卡牌某个部位保持某个稀有度，那你必须至少让父母双方都达到这个稀有度，这样安全性会比较高。选定好合成的卡牌以后，点击合成调用合约，等待大约 10 秒左右合约会执行完毕将会播放合成动画，生成新的卡牌。
 
 ## nft 交易拍卖界面
 
@@ -87,7 +88,7 @@ nft 卡牌有一个属性叫做挖矿力，这个能力决定了你的这张卡�
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lpmining.png)
 
-nft 挖矿界面有一个 lp 挖矿，这里您可以使用测试的 gft 和 iotx 配对在 mimo v2 上提供流动性以获得 lp token。在这里将 lp token 质押就可以参与流动性挖矿，流动性挖矿的奖励将是游戏的 DAO 治理代币 GFS。持有 GFS 就相当于持有 linkstar 的股票一样，以后将可以分享游戏分红池内的奖励。GFS 以后还会开放在游戏内玩游戏的其他获取方式。GFS 将采取公平分发的方式，获得方式只有为游戏做出贡献，游戏上线时将放出 GFS 的通证经济。测试网 GFS 的地址为 io1z2l3ncsfp4ja7fttm74kycrjrtsrexarz3t0n2。您可以通过在测试网的状态下添加自定义 xrc20 将地址输入查看测试网 GFS 的情况。在文档的一开始有介绍如何进行 lp 流动性提供。
+nft 挖矿界面有一个 lp 挖矿，这里您可以使用测试的 gft 和 iotx 配对在 mimo v2 上提供流动性以获得 lp token。在这里将 lp token 质押就可以参与流动性挖矿，流动性挖矿的奖励将是游戏的 DAO 治理代币 GFS。持有 GFS 就相当于持有 linkstar 的股票一样，以后将可以分享游戏分红池内的奖励。GFS 以后还会开放在游戏内玩游戏的其他获取方式。GFS 将采取公平分发的方式，获得方式只有为游戏做出贡献，游戏上线时将放出 GFS 的通证经济。主网 GFS 的地址为 io1nwhrupwj52vm5qcc74nsmdxrt9nchj49r5648s。您可以通过在添加自定义 xrc20 将地址输入查看钱包拥有的 GFS 情况。在文档的一开始有介绍如何进行 lp 流动性提供。
 
 我们测试的总群：
 for english：https://t.me/GameFantasyToken
