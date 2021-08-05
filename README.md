@@ -48,6 +48,7 @@ There are four buttons at the bottom of the main game interface:
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/main.png)
 
 Click the enter first button to enter the nft display interface, which is also the default game initialization interface. Maybe at first everyone didn't have a new card. Don't worry, you can get your card in the trade auction interface. If you get your card, you can see your card information here. The exclamation mark in the upper right corner can be used to view the card's detailed quality and information. If your card's total body part score reaches one, the card's background will change.
+
 The upper and middle of the game interface can switch the language displayed in the game. The search function at the bottom of the diagonal can let you easily view the card attributes corresponding to a certain id at present. There are 8 colored crystal balls in the middle of the lower part of each card, and each crystal ball corresponds to the quality of a part of the card. This way you can easily know the approximate quality information of this card and find the appropriate card when you combine it.
 
 ## Nft synthesis interface
