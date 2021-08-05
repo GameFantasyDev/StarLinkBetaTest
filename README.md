@@ -1,4 +1,4 @@
-# StarLink internal test game method
+# StarLink public test game method
 
 **This public test is a censored test. All cards won by players will be discarded when they are officially launched. Tokens obtained during the game test are the main net's official GFT. We did a lot of optimization in this test compared to the last one. The gas fee used in the game was also significantly reduced by more than 50% as compared to the previous one.**
 
