@@ -6,7 +6,7 @@
 
 **About GFS: GFS is a community token for GameFantasy totaling 30M. Full 100% fair distribution, no team share, no ecological share. Later will open up more in-game access. Can be used for in-game GFS-exclusive bonus pool mining, various syrup pool mining that are expected to open in the future and StarLink's DAO rights. More pass card economy will be announced after the game goes online.**
 
-**About GFT：GFT is the currency pass for use in the StarLink game with a hard top 3000w W. (This cap is not subject to change and the contract removes the changed method) All trading activities within StarLink are conducted using GFT, including arena features expected to be developed later, other social events, and so on. The vast majority of GFT will be produced in the form of mining, in-game system income pass will be added to the bonus pool for GFS holders to share.**
+**About GFT：GFT is the currency pass for use in the StarLink game with a hard top 30M. (This cap is not subject to change and the contract removes the changed method) All trading activities within StarLink are conducted using GFT, including arena features expected to be developed later, other social events, and so on. The vast majority of GFT will be produced in the form of mining, in-game system income pass will be added to the bonus pool for GFS holders to share.**
 
 Players taking part in game testing can download iopay mobile wallets or desktop wallets. Then play with a wallet that is not as important to you as a wallet.
 
