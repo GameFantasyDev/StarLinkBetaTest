@@ -1,43 +1,44 @@
-# 关于将 Mimo v1 流动性迁移到 v2 的说明
+# Explanation for migrating Mimo v1 mobility to v2
 
-为了参与 GameFantasy 的新游戏 linkstar 的流动性挖矿，我们需要将流动性迁移到 v2 上来。游戏中使用的版本为 mimo v2.具体做法如下：
+Explanation for migrating Mimo v1 mobility to v2
+In order to participate in the liquidity mining of linkstar, a new game of GameFantasy, we need to migrate the liquidity to v2. The version used in the game is mimo v2. here's how it works:
 
-首先在 iopay 上打开 mimo。然后我们先要去 v1 上解除 GFT 的流动性。点击红框内的按钮前往 v1。
+First turn on mimo on iopay. Then we're going to first remove the liquidity of the GFT on v1. Click the button in the red box to go to v1.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate1.png)
 
-然后我们需要点击第二个按钮切换到池子，如果你有 GFT 的流动性可以在这里选择，然后展开以后如下图。我们选择 remove 按钮。
+Then we need to click the second button to switch to the pool, if you have the liquidity of GFT can choose here, and then expand after the following figure. We select the remove button.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate2.png)
 
-在打开的界面里面我们把上面红框内的进度条拉满，进度条上面会显示 100%。我们全部解除。然后点击下方红框内的 remove。
+In the opened interface, we pull up the progress bar in the red box above, and the progress bar will show 100%. We disarm all. Then click remove in the red box below.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate3.png)
 
-弹出来的界面里继续 confrim 确定。在 iopay 弹出来确认框确认以后等待十秒左右即可解除 v1 的流动性。您的钱包里也会多出一些 IOTX 和 GFT。
+The pop-up interface continues to confrim ok. Waiting for about ten seconds after the confirmation box pops up in iopay can release the liquidity of v1. You'll also have some more IOTX and GFT in your wallet.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate4.png)
 
-然后我们可以快捷关闭掉 mimo，重新打开进入 v2。这次我们点右上角登陆一下 v2。
+Then we can quickly switch mimo off and back on to v2. This time we hit v2 at the top right.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate5.png)
 
-我们继续点击流动性按钮，并且选择下方红框内添加流动性。
+We continue to click the liquidity button and select add liquidity in the red box below.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate6.png)
 
-在打开的界面里面我们选择红框内的按钮然后在弹出来的界面中选择 GFT。
+In the opened interface, we select the button in the red box and then select GFT in the pop-up interface.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate7.png)
 
-这里我们选择 GFT 旁边的 max，会自动填入当前最大数量的 GFT。当然你可以自己手动输入你想要的数字，请确认你的钱包内有足够的 IOTX 作为流动性的配对。
+Here we select max next to GFTs, and the current maximum number of GFTs will be automatically filled in. Of course you can manually enter the number you want by yourself, please make sure there is enough IOTX in your wallet as a liquidity pair.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate8.png)
 
-然后我们选择下方图内的 supply，然后会弹出信息框。确认都没有问题后点击 confirm，并且在 iopay 弹窗以后确认，即可在 v2 上提供流动性了。
+Then we select supply in the figure below, and an information box pops up. After confirming that there is no problem, click confirm, and confirm after iopay popup window, liquidity can be provided on v2.
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate9.png)
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/migrate10.png)
 
-这样整个从 mimo v1 到 mimo v2 的流动性迁移就结束了。等 linkstar 正式上线以后你就可以在游戏内看到你提供的流动性并且参与流动性挖矿获取 GFS 代币了。
+This completes the entire mobility shift from mimo v1 to mimo v2. After linkstar is officially launched, you can see the liquidity you provide in the game and participate in liquidity mining to obtain GFS tokens.

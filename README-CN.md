@@ -19,7 +19,7 @@
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/loading.png)
 
-如果您想要进行流动性挖矿挖取 GFS，则你需要打开 mimov2，为 IOTX-GFT 交易对提供流动性，并在游戏内进行质押，以获得 GFS。**注意：本次测试的 NFT 挖矿和流动性挖矿速率都经过了大幅调整。请大家悉知。**
+如果您想要进行流动性挖矿挖取 GFS，则你需要打开 mimov2，为 IOTX-GFT 交易对提供流动性，并在游戏内进行质押，以获得 GFS。
 
 ## 如何在 mimo v2 上给 GFT 提供流动性？
 
@@ -88,10 +88,11 @@ nft 卡牌有一个属性叫做挖矿力，这个能力决定了你的这张卡�
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lpmining.png)
 
-nft 挖矿界面有一个 lp 挖矿，这里您可以使用测试的 gft 和 iotx 配对在 mimo v2 上提供流动性以获得 lp token。在这里将 lp token 质押就可以参与流动性挖矿，流动性挖矿的奖励将是游戏的 DAO 治理代币 GFS。持有 GFS 就相当于持有 linkstar 的股票一样，以后将可以分享游戏分红池内的奖励。GFS 以后还会开放在游戏内玩游戏的其他获取方式。GFS 将采取公平分发的方式，获得方式只有为游戏做出贡献，游戏上线时将放出 GFS 的通证经济。主网 GFS 的地址为 io1nwhrupwj52vm5qcc74nsmdxrt9nchj49r5648s。您可以通过在添加自定义 xrc20 将地址输入查看钱包拥有的 GFS 情况。在文档的一开始有介绍如何进行 lp 流动性提供。
+nft 挖矿界面有一个 lp 挖矿，这里您可以使用 gft 和 iotx 配对在 mimo v2 上提供流动性以获得 lp token。在这里将 lp token 质押就可以参与流动性挖矿，流动性挖矿的奖励将是游戏的 DAO 治理代币 GFS。持有 GFS 就相当于持有 linkstar 的股票一样，以后将可以分享游戏分红池内的奖励。GFS 以后还会开放在游戏内玩游戏的其他获取方式。GFS 将采取公平分发的方式，获得方式只有为游戏做出贡献，游戏上线时将放出 GFS 的通证经济。主网 GFS 的地址为 io1nwhrupwj52vm5qcc74nsmdxrt9nchj49r5648s。您可以通过在添加自定义 xrc20 将地址输入查看钱包拥有的 GFS 情况。在文档的一开始有介绍如何进行 lp 流动性提供。
 
 我们测试的总群：
 for english：https://t.me/GameFantasyToken
-for chainese: 请微信找游戏人生加入 GFT 微信群
+
+for chinese: 请微信找游戏人生加入 GFT 微信群
 
 # 最后，希望大家能够喜欢我们的游戏！
