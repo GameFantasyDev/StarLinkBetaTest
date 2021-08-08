@@ -1,6 +1,6 @@
 # StarLink public test game method
 
-**This public test is a censored test. All cards won by players will be discarded when they are officially launched. Tokens obtained during the game test are the main net's official GFT. We did a lot of optimization in this test compared to the last one. The gas fee used in the game was also significantly reduced by more than 50% as compared to the previous one.**
+**This public test is a censored test. All cards won by players will be discarded when they are officially launched. Tokens obtained during the game test are the main net's official GFT. We did a lot of optimization in this test compared to the last one. The gas fee used in the game was also significantly reduced by more than 50% as compared to the previous one.To perform any operation, please ensure that there are at least 10 iotx in your wallet to ensure that you can play the game normally.**
 
 **The network for this test is the iotex main network, and the general license used in the game is the main network GFT, of which the liquidity mining is the LP of IOTX-GFT, and the output is DAO token GFS.**
 
