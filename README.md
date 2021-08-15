@@ -44,21 +44,27 @@ The Polymerization tab allows you to synthesize two NFTs into a higher quality N
 
 The LinkStar Market interface is divided into three sections:
 1.Free Market:
+
 ![image](IMG/freedom.png)
 
 The “Free Market” tab allows you to list your NFTs for sale, or purchase NFTs from other players that have listed theirs for sale. It is up to the NFT owner to decide the listing price. You can click the exclamation mark of each NFT to view its characteristics, and click “Buy” to purchase. Please wait ~10 seconds after confirming for your purchase to settle; if your GFT balance is sufficient, the NFT will be added to your collection. Each page shows up to 10 NFTs, and you can navigate to other pages using the arrows at the bottom of the screen. Filtering features will be added soon so you can search for NFTs with specific characteristics -- stay tuned!
 
 2.Official Auction:
+
 ![image](IMG/bid.png)
+
 The “Official Auction” tab enables users to purchase first-edition NFTs. There will always be 20 NFTs waiting to be adopted. Once any player bids on one of them, a countdown will begin for a certain number of blocks (each block is ~5 seconds). If another bid is made by another player, the countdown for this NFT auction will be extended by a certain number of blocks. Until there are no new bids, the final bidder will win the auction and receive the NFT, which you can claim in the “My Transaction” tab. Note that the refresh function is currently under optimization, so the list of NFTs available for auction may not be real-time.
 
 3.My Transaction:
+
 ![image](IMG/myshop.png)
+
 The “My Transaction” interface lists all of the NFTs you have, including those you are selling and those you have won at auction. You can also list your NFTs for sale on the “Free Market” via the “My Transactions” tab. Once you list your NFT for sale and someone purchases your NFT, a 0.3% fee (adjustable later by DAO) will be charged and deposited into the community dividend pool for $GFS holders to share. As shown in the above figure, “Receive” indicates NFTs you bid for from auction, and “Get Back” indicates NFTs you have listed for sale on the “Free Market” that you can revoke at any time. Note that there is no time limit for “Free Market” sales.
 
 # StarMine: NFT mining interface
 
 ![image](IMG/mining.png)
+
 In the “StarMine” tab, you can mine $GFT by dispatching your NFTs as well as mine $GFS by staking your IOTX-GFT LP tokens. Let’s start with $GFT mining -- all LinkStar NFTs have an attribute called “Dig Power”, which determines the $GFT mining power of each unique NFT. The more Dig Power you have, the more $GFT you can earn, which can then be used to purchase and/or synthesize more NFTs. Once you dispatch an NFT to dig for minerals, the card will be removed from your inventory, but it will still be visible within StarMine and can be recall at any time. In other words, any NFT dispatched for $GFT mining will temporarily not belong to you (i.e., not available for sale) until you recall it back to your inventory. Any NFTs you have dispatched to dig/mine will be displayed in this dashboard, and you can claim your $GFT mining rewards at any time by clicking “Claim”.
 
 # How to mine GFS
