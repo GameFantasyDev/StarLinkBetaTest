@@ -1,98 +1,73 @@
-# StarLink public test game method
+# Project LinkStar - Public Beta Testing #
 
-**This public test is a censored test. All cards won by players will be discarded when they are officially launched. Tokens obtained during the game test are the main net's official GFT. We did a lot of optimization in this test compared to the last one. The gas fee used in the game was also significantly reduced by more than 50% as compared to the previous one.To perform any operation, please ensure that there are at least 10 iotx in your wallet to ensure that you can play the game normally.**
+Welcome to Project LinkStar, the highly anticipated crypto/NFT gaming project by GameFantasy! After months of private testing on Testnet, we are excited to open public beta testing on Mainnet. We have made various upgrades to LinkStar recently, including reducing gas fees by more than 50%, but we need your help to test gameplay and patch any bugs before LinkStar is launched to the masses. You will earn $GFT & $GFS tokens during the public beta test -- join us!
 
-**The network for this test is the iotex main network, and the general license used in the game is the main network GFT, of which the liquidity mining is the LP of IOTX-GFT, and the output is DAO token GFS.**
+# What is Project LinkStar?#
 
-**About GFS: GFS is a community token for GameFantasy totaling 30M. Full 100% fair distribution, no team share, no ecological share. Later will open up more in-game access. Can be used for in-game GFS-exclusive bonus pool mining, various syrup pool mining that are expected to open in the future and StarLink's DAO rights. More pass card economy will be announced after the game goes online.**
+$GFT is the utility token of Project LinkStar. The total supply is capped at 30 million $GFT. All auctioning, trading, and synthesizing activities within LinkStar are conducted using GFT, as well as future “arena battle” and social interactment features. The vast majority of GFT will be produced in the form of in-game mining, and $GFT transaction fees will be added to the bonus pool for $GFS holders to share.
 
-**About GFT：GFT is the currency pass for use in the StarLink game with a hard top 30M. (This cap is not subject to change and the contract removes the changed method) All trading activities within StarLink are conducted using GFT, including arena features expected to be developed later, other social events, and so on. The vast majority of GFT will be produced in the form of mining, in-game system income pass will be added to the bonus pool for GFS holders to share.**
+$GFS is a governance/DAO token for the GameFantasy ecosystem. The total supply is capped at 30 million $GFS with 100% fair distribution (i.e., no team share, no ecological share). $GFS will enable exclusive in-game features and mining rewards and provide governance rights in the LinkStar DAO. $GFS can be earned by providing liquidity for IOTX-GFT pair on mimo and staking IOTX-GFT LP tokens in LinkStar.
 
-Players taking part in game testing can download iopay mobile wallets or desktop wallets. Then play with a wallet that is not as important to you as a wallet.
+# LinkStar Beta Testing Overview #
 
-Please turn off the global mode of vpn during the game to avoid the problem of not connecting to the wallet. If your brow has adblock installed, please temporarily close adblock to avoid that problem of not connecte to the server.
+Testing will be performed on the IoTeX Mainnet. Any in-game assets earned (e.g., NFT cards) will be discarded after the official launch of Public LinkStar. However, any $GFT & $GFS tokens earned during the public beta test will be retained by testers. Some tips for beta testers:
 
-During the test, it is recommended to use the desktop version of iopay as much as possible, so that the developer tool query log can be opened in the browser, which makes it easier for us to locate the problem.
+1.To perform in-game operations, make sure you have at least 10 IOTX in your wallet for gas.
+2.Turn off your VPN and any Ad-Blockers to avoid any wallet connection issues.
+3.Testing can be performed on both ioPay Desktop or ioPay Mobile. We recommend you use ioPay Desktop, as in-browser developer logs make it easier for us to locate any bugs.
+4.The game loading interface may take up to 10 seconds to load (please wait patiently) and will ask you to sign a transaction with your wallet to enter the game.
 
-Game loainding interface after waiting for about 5-10 seconds (according to the network situation may be extended, please wait patiently) will pop up the signature of the wallet, click ok to enter the game.
+# LinkStar Gameplay Instructions #
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/loading.png)
+1.My Starmon: view all of your LinkStar NFTs and explore their unique characteristics
+2.Polymerization: synthesize two NFTs into another rarer NFT with higher power
+3.Market: buy, sell, and trade NFTs with other LinkStar players
+4.Starmine: mine $GFT & $GFS by holding NFTs and staking IOTX-GFT LP tokens
 
-If you want to perform liquidity mining GFS, then you need to turn on mimov2 to provide liquidity to the IOTX-GFT trading pair and pledge within the game to obtain GFS.
+Once you enter the LinkStar game, you will see four tabs at the bottom of the main game interface where you will perform various actions:
 
-## How to provide liquidity to GFT on mimo v2?
-
-Open the https://mimo.exchange/, please.
-
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp1.png)
-
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp2.png)
-
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp3.png)
-
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lp4.png)
-
-Then you can see the lp token provided by you in the in-game liquidity mining interface. The prize for pledged mining will be GFS.
-
-## Game play
-
-There are four buttons at the bottom of the main game interface:
-
-- Nft display interface
-- Nft synthesis interface
-- Nft transaction auction interface
-- Nft mining interface
-
-## Nft display interface
+My Starmon: NFT display interface
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/main.png)
 
-Click the enter first button to enter the nft display interface, which is also the default game initialization interface. Maybe at first everyone didn't have a new card. Don't worry, you can get your card in the trade auction interface. If you get your card, you can see your card information here. The exclamation mark in the upper right corner can be used to view the card's detailed quality and information. If your card's total body part score reaches one, the card's background will change.
+The “My Starmon” tab is the default game initialization interface where you can select your language of choice (for now: English, Chinese) and view your LinkStar NFTs. If you don’t have any NFTs yet, don’t worry! You can obtain your first NFT in the LinkStar Market. Once you have NFTs, you can click the exclamation mark in the upper right corner to view the NFT’s unique characteristics. If your NFT’s total score reaches one, the NFT’s background will change. There are 8 colored crystal balls on the bottom of each NFT, each corresponding to the quality/rarity of a body part of your NFT. This allows you to identify which NFTs to synthesize to create higher quality NFTs (more on this in the next section). Finally, the search bar allows you to easily view card attributes corresponding to your NFT ID #.
 
 The upper and middle of the game interface can switch the language displayed in the game. The search function at the bottom of the diagonal can let you easily view the card attributes corresponding to a certain id at present. There are 8 colored crystal balls in the middle of the lower part of each card, and each crystal ball corresponds to the quality of a part of the card. This way you can easily know the approximate quality information of this card and find the appropriate card when you combine it.
 
-## Nft synthesis interface
+Polymerization: NFT synthesis interface
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/mix.png)
 
-The nft Synthesis interface allows the synthesis of two nft cards. This gives the chance to get a higher quality card, and all attrib-utes will be inherited and evolved from the parent card. The rarity of all body parts is not lower than that of both parents. So the synthesis time everybody must grasp this most basic principle. If you want to keep a rarity somewhere on your card, then you must have at least both parents reach that rarity. (such as R and R synthesis is not even lower than the quality of r) selected after the good synthesis of card, click on the synthesis call contract, wait-ing for about 10 seconds contract will be executed will play a composite animation, generate a new card.
+The Polymerization tab allows you to synthesize two NFTs into a higher quality NFT. When synthesizing, all attributes of the “parent NFTs” will be inherited by the newly synthesized NFT, where the quality/rarity of all body parts will not be lower than that of both parents. To retain the quality/rarity of a specific body part, then both parents must have that quality/rarity. To synthesize two of your NFTs, select the two you want to combine and then click “dispatch”, which will call a smart contract and after ~10 seconds you will receive a new composite NFT of higher quality/rarity.
 
-## Nft transaction auction interface
+## Market: NFT auction/trading interface
 
-Nft trading auction interface we are divided into three parts:
+The LinkStar Market interface is divided into three sections:
+1.Free Market:
+(图片)
 
-### Nft trading interface
+The “Free Market” tab allows you to list your NFTs for sale, or purchase NFTs from other players that have listed theirs for sale. It is up to the NFT owner to decide the listing price. You can click the exclamation mark of each NFT to view its characteristics, and click “Buy” to purchase. Please wait ~10 seconds after confirming for your purchase to settle; if your GFT balance is sufficient, the NFT will be added to your collection. Each page shows up to 10 NFTs, and you can navigate to other pages using the arrows at the bottom of the screen. Filtering features will be added soon so you can search for NFTs with specific characteristics -- stay tuned!
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/freedom.png)
+2.Official Auction:
+（图片）
+The “Official Auction” tab enables users to purchase first-edition NFTs. There will always be 20 NFTs waiting to be adopted. Once any player bids on one of them, a countdown will begin for a certain number of blocks (each block is ~5 seconds). If another bid is made by another player, the countdown for this NFT auction will be extended by a certain number of blocks. Until there are no new bids, the final bidder will win the auction and receive the NFT, which you can claim in the “My Transaction” tab. Note that the refresh function is currently under optimization, so the list of NFTs available for auction may not be real-time.
 
-Entering the market is the default open nft free trade interface. Here you can see the cards that players hang out and sell in the game. There will be other players' selling prices in the red box above. Click Buy to pop up the cat details interface, where you can view the details of selling cats. Wait approximately 10 sec-onds after clicking Confirm to invoke the contract here and if your GFT balance is sufficient, purchase this card into your warehouse. A page shows 10 items, the more can be in the bottom red box to page, click on the middle page number can pop up jump page, jump to any one page number. The screening function of cards that are convenient for players to browse will be added later. Please be patient.
+3.My Transaction:
+（图片）
+The “My Transaction” interface lists all of the NFTs you have, including those you are selling and those you have won at auction. You can also list your NFTs for sale on the “Free Market” via the “My Transactions” tab. Once you list your NFT for sale and someone purchases your NFT, a 0.3% fee (adjustable later by DAO) will be charged and deposited into the community dividend pool for $GFS holders to share. As shown in the above figure, “Receive” indicates NFTs you bid for from auction, and “Get Back” indicates NFTs you have listed for sale on the “Free Market” that you can revoke at any time. Note that there is no time limit for “Free Market” sales.
 
-#### Nft auction interface:
+# StarMine: NFT mining interface #
+（图片）
+In the “StarMine” tab, you can mine $GFT by dispatching your NFTs as well as mine $GFS by staking your IOTX-GFT LP tokens. Let’s start with $GFT mining -- all LinkStar NFTs have an attribute called “Dig Power”, which determines the $GFT mining power of each unique NFT. The more Dig Power you have, the more $GFT you can earn, which can then be used to purchase and/or synthesize more NFTs. Once you dispatch an NFT to dig for minerals, the card will be removed from your inventory, but it will still be visible within StarMine and can be recall at any time. In other words, any NFT dispatched for $GFT mining will temporarily not belong to you (i.e., not available for sale) until you recall it back to your inventory. Any NFTs you have dispatched to dig/mine will be displayed in this dashboard, and you can claim your $GFT mining rewards at any time by clicking “Claim”.
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/bid.png)
+# How to mine GFS #
 
-This is the official vertical screen. There will always be 20 cards waiting to be adopted. As long as any player bids on one of them, the countdown will begin. After a certain number of blocks (a block is about 5 seconds) if someone continues to bid, the count-down to this card increases by a certain number of blocks. Until no one bids, the card goes through the individual's process. You can receive this card in the third interface. Note that the refresh section is currently under optimization and the list refresh rate is not fast. Please be patient.
+To mine $GFS, click on the “LP Mining” button. To mine $GFS, you will first need to provide liquidity to the IOTX-GFT pair on mimo DEX -- you can find instructions here. By providing liquidity to the IOTX-GFT pair on mimo, you will receive IOTX-GFT Liquidity Pool (LP) tokens, which represents your share of the IOTX-GFT token pool. By having IOTX-GFT LP tokens associated with your wallet, you will automatically receive $GFS tokens, which is like holding shares in LinkStar. $GFS holders will share rewards from the bonus pool (e.g., the 0.3% of $GFT transaction fees per NFT sale) and also enable other in-game benefits within LinkStar. $GFS will be distributed 100% fairly and only by way of contributions to the LinkStar game. The $GFS pass-through economy will be released when the game goes live. For now, you can view the $GFS contract address on Testnet at: io1t585efypl4e9ex7xks2upnjm8saawfk0v0s5sj and add as a custom XRC20 address on mimo and iotexscan.
 
-#### My card interface:
+# Contact us #
 
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/myshop.png)
+For English：https://t.me/GameFantasyToken
 
-This interface lists all the cards you have, including those you are selling and can receive. You can also put your cards on the mar-ket for sale in this interface. Other players will be able to look up your order information on the first screen. If there is a deal, 0.3% (adjusted later by DAO) will be deducted from the amount you can get as a handling charge. This fee will be deposited into the game's dividend pool. For long-term contributions to the game players to share. As shown in the above figure, receive indicates the card you bid for from the system auction, and getback indi-cates that you can dismount a card you have mounted. Sale means you can put your card on the shelf for sale. There is no time limit for sales.
+For Chinese: Please search “FantasyGame" on WeChat to join GFT WeChat group.
 
-## Nft mining interface:
-
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/mining.png)
-
-Nft cards have an attribute called Digging Power, which deter-mines the weight of the ore that your card sends out. The ore pool will be allocated GFTs based on the total ore digging force of all cards. Once you have dispatched the nft card to dig for miner-als, the card will be removed from your warehouse. But you can still see it at the mine and recall it. This nft card will temporarily not belong to you until you recall it to its place. The gray card with dispatching at the bottom of the picture is the card you have sent to dig.
-
-![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/lpmining.png)
-
-The nft Digging Interface has an lp Digging where you can use gft and iotx pair to provide liquidity on Mimo v2 to obtain an lp token. Here, the pledge of lp token can be used to participate in Liquidity mining. The reward for Liquidity mining will be the DAO governance token GFS of the game. Holding GFS is like holding shares in linkstar, where you will be able to share the rewards in the bonus pool. GFS will later also open up other ways to get to play games within the game. GFS will be distributed fairly and on-ly by way of contribution to the game, and GFS's pass-through economy will be released when the game goes live. The address of the test network GFS is io1t585efypl4e9ex7xks2upnjm8saawfk0v0s5sj. You can view the test network GFS by adding a custom xrc20 to enter the address in the test network status. At the beginning of the document there is an in-troduction to how lp liquidity provision is made.
-
-Total group we tested:
-
-for english：https://t.me/GameFantasyToken
-
-for CHINESE: Please find dance academy on WeChat to join GFT WeChat group.
-
-# Finally, We hope everyone will enjoy our games!
+# Finally, we hope everyone enjoys LinkStar!
