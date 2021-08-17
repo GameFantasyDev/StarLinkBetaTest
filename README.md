@@ -1,6 +1,6 @@
 # Project LinkStar - Public Beta Testing
 
-Welcome to Project LinkStar, the highly anticipated crypto/NFT gaming project by GameFantasy! After months of private testing on Testnet, we are excited to open public beta testing on Mainnet. We have made various upgrades to LinkStar recently, including reducing gas fees by more than 50%, but we need your help to test gameplay and patch any bugs before LinkStar is launched to the masses. You will earn $GFT & $GFS tokens during the public beta test -- join us!
+Welcome to Project LinkStar, the highly anticipated crypto/NFT gaming project by GameFantasy! After months of private testing on Testnet, we are excited to open public beta testing on Mainnet. We have made various upgrades to LinkStar recently, including reducing gas fees by more than 50%, but we need your help to test gameplay and patch any bugs before LinkStar is launched to the masses. You will earn $GFT & $GFS tokens during the public beta test（The public beta test from 2021.08.16 10:00am to 2021.08.30 10:am UTC+8） -- join us!
 
 # What is Project LinkStar?#
 
