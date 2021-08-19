@@ -2,7 +2,7 @@
 
 Welcome to Project LinkStar, the highly anticipated crypto/NFT gaming project by GameFantasy! After months of private testing on Testnet, we are excited to open public beta testing on Mainnet. We have made various upgrades to LinkStar recently, including reducing gas fees by more than 50%, but we need your help to test gameplay and patch any bugs before LinkStar is launched to the masses. You will earn $GFT & $GFS tokens during the public beta test（The public beta test from 2021.08.16 10:00am to 2021.08.30 10:am UTC+8） -- join us!
 
-# What is Project LinkStar?#
+# What is Project LinkStar?
 
 $GFT is the utility token of Project LinkStar. The total supply is capped at 30 million $GFT. All auctioning, trading, and synthesizing activities within LinkStar are conducted using GFT, as well as future “arena battle” and social interactment features. The vast majority of GFT will be produced in the form of in-game mining, and $GFT transaction fees will be added to the bonus pool for $GFS holders to share.
 
@@ -38,7 +38,7 @@ Polymerization: NFT synthesis interface
 
 ![image](https://github.com/GameFantasyDev/StarLinkBetaTest/blob/main/IMG/mix.png)
 
-The Polymerization tab allows you to synthesize two NFTs into a higher quality NFT. When synthesizing, all attributes of the “parent NFTs” will be inherited by the newly synthesized NFT, where the quality/rarity of all body parts will not be lower than that of both parents. To retain the quality/rarity of a specific body part, then both parents must have that quality/rarity. To synthesize two of your NFTs, select the two you want to combine and then click “dispatch”, which will call a smart contract and after ~10 seconds you will receive a new composite NFT of higher quality/rarity.
+The Polymerization tab allows you to synthesize two NFTs into a higher quality NFT. When synthesizing, all attributes of the “parent NFTs” will be inherited by the newly synthesized NFT, where the quality/rarity of all body parts will be reset according to the quality of the parents To retain the quality/rarity of a specific body part, then both parents must have that quality/rarity. To synthesize two of your NFTs, select the two you want to combine and then click “dispatch”, which will call a smart contract and after ~10 seconds you will receive a new composite NFT of higher quality/rarity.
 
 ## Market: NFT auction/trading interface
 
@@ -59,13 +59,13 @@ The “Official Auction” tab enables users to purchase first-edition NFTs. The
 
 ![image](IMG/myshop.png)
 
-The “My Transaction” interface lists all of the NFTs you have, including those you are selling and those you have won at auction. You can also list your NFTs for sale on the “Free Market” via the “My Transactions” tab. Once you list your NFT for sale and someone purchases your NFT, a 0.3% fee (adjustable later by DAO) will be charged and deposited into the community dividend pool for $GFS holders to share. As shown in the above figure, “Receive” indicates NFTs you bid for from auction, and “Get Back” indicates NFTs you have listed for sale on the “Free Market” that you can revoke at any time. Note that there is no time limit for “Free Market” sales.
+The “My Transaction” interface lists all of the NFTs you have, including those you are selling and those you have won at auction. You can also list your NFTs for sale on the “Free Market” via the “My Transactions” tab. Once you list your NFT for sale and someone purchases your NFT, a 0.3% fee (adjustable later by DAO) will be charged and deposited into the community dividend pool for \$GFS holders to share. As shown in the above figure, “Receive” indicates NFTs you bid for from auction, and “Get Back” indicates NFTs you have listed for sale on the “Free Market” that you can revoke at any time. Note that there is no time limit for “Free Market” sales.
 
 # StarMine: NFT mining interface
 
 ![image](IMG/mining.png)
 
-In the “StarMine” tab, you can mine $GFT by dispatching your NFTs as well as mine $GFS by staking your IOTX-GFT LP tokens. Let’s start with $GFT mining -- all LinkStar NFTs have an attribute called “Dig Power”, which determines the $GFT mining power of each unique NFT. The more Dig Power you have, the more $GFT you can earn, which can then be used to purchase and/or synthesize more NFTs. Once you dispatch an NFT to dig for minerals, the card will be removed from your inventory, but it will still be visible within StarMine and can be recall at any time. In other words, any NFT dispatched for $GFT mining will temporarily not belong to you (i.e., not available for sale) until you recall it back to your inventory. Any NFTs you have dispatched to dig/mine will be displayed in this dashboard, and you can claim your $GFT mining rewards at any time by clicking “Claim”.
+In the “StarMine” tab, you can mine $GFT by dispatching your NFTs as well as mine $GFS by staking your IOTX-GFT LP tokens. Let’s start with $GFT mining -- all LinkStar NFTs have an attribute called “Dig Power”, which determines the $GFT mining power of each unique NFT. The more Dig Power you have, the more $GFT you can earn, which can then be used to purchase and/or synthesize more NFTs. Once you dispatch an NFT to dig for minerals, the card will be removed from your inventory, but it will still be visible within StarMine and can be recall at any time. In other words, any NFT dispatched for $GFT mining will temporarily not belong to you (i.e., not available for sale) until you recall it back to your inventory. Any NFTs you have dispatched to dig/mine will be displayed in this dashboard, and you can claim your \$GFT mining rewards at any time by clicking “Claim”.
 
 # How to mine GFS
 
